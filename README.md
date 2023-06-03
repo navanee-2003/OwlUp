@@ -1,3 +1,4 @@
+![thumb](https://github.com/navanee-2003/OwlUp/assets/115069346/81e2ceb1-d1f2-446a-b859-1bc1915745f2)
 ## Inspiration
 The inspiration behind Owl-Up was to address the crucial need for public safety and security in today's world. We aimed to develop a solution that leverages advanced technologies to enhance surveillance and protect communities.
 
