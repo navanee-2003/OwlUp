@@ -26,7 +26,7 @@ function Navbar() {
           </Link>
           <Link to="/alerts">
           <Badge
-            badgeContent={1}
+            badgeContent={0}
             color="warning"
             style={{ width: "100%", height: "100%"}}
           >
