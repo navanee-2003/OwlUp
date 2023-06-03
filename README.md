@@ -22,6 +22,6 @@ While working on Owl-Up, we gained valuable insights into the intricacies of dee
 Looking ahead, we have ambitious plans for Owl-Up. We aim to continually improve and optimize the alert generation system by incorporating advanced features such as anomaly detection, video analytics, and predictive intelligence. We will further strengthen the communication channels with the nearby police stations and explore possibilities for integration with existing emergency response systems. Furthermore, we will actively seek feedback and collaboration with law enforcement agencies and local communities to ensure Owl-Up evolves to meet the ever-changing safety needs of our society.
 
 ## Try it out
-https://owl-up.netlify.app/ 
-username:praveen 
-password:helloPal@21 
+https://owl-up.netlify.app/    
+username:praveen    
+password:helloPal@21    
