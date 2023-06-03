@@ -1,0 +1,74 @@
+.login-parent{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    /* background-color: rgb(70, 70, 70); */
+    justify-content: center;
+    align-items: center;
+}
+.login-major{
+    height: 80vh;
+    width: 80%;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 2vh;
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+}
+.login-major .img{
+    width: 50%;
+    height: inherit;
+    background-color: rgb(210, 232, 255);
+    background-image: url("/src/assets/img/login-pic.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: inherit;
+}
+.login-major .container{
+    width: 50%;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(180, 115, 115); */
+    border-radius: inherit;
+}
+.login-major .container .logo{
+    width: 100%;
+    /* background-color: aquamarine; */
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("/src/assets/img/logo.png");
+    height: 40%;
+}
+.login-major .container .credentials{
+    display: flex;
+    align-items: center;
+    gap: 5vh;
+    width: 100%;
+    flex-direction: column;
+    height: 60%;
+    /* background-color: rgb(9, 9, 255); */
+}
+.login-major .container .credentials input{
+    width: 60%;
+    padding: 3%;
+    border: 3px solid ;
+    text-align: center;
+    border-radius: 5px;
+}
+.login-major .container .credentials .btns{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    /* background-color: aqua; */
+    justify-content: center;
+}
+.login-major .container .credentials .btns button{
+    width: 30%;
+    height: 50px;
+    font-weight: bolder;
+}

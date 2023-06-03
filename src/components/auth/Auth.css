@@ -1,0 +1,14 @@
+.auth-parent{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(70, 70, 70);
+}
+.auth-major{
+    width: 100%;
+}
+.auth-major *{
+    color: wheat;
+}
+.auth-major .btn{
+    width: 100%;
+}
