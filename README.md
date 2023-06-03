@@ -23,5 +23,5 @@ Looking ahead, we have ambitious plans for Owl-Up. We aim to continually improve
 
 ## Try it out
 https://owl-up.netlify.app/    
-username:praveen    
-password:helloPal@21    
+Username: praveen    
+Password: helloPal@21    
